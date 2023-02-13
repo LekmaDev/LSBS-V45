@@ -19,4 +19,4 @@ Server ZIP: https://codeload.github.com/LekmaDev/LSBS-V45/zip/refs/heads/main
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
 
-![bsdsv45](![image](https://user-images.githubusercontent.com/106377626/218463913-02c676d3-372f-4d15-b4a0-1e5c31f0bac2.png))
+![bsdsv45](https://cdn.discordapp.com/attachments/1040608064681803827/1074675458848858132/Screenshot_2023-02-13-14-14-41-697_com.lsbs.v45555.jpg)
